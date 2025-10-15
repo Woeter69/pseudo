@@ -19,11 +19,3 @@ def convert_to_pseudo(text):
         result.append(converted)
 
     return " ".join(result)
-
-
-
-text = "I apologize for my actions"
-
-print(convert_to_pseudo(text))
-
-
